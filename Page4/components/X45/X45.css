@@ -1,0 +1,119 @@
+.x4-5 {
+  align-items: flex-start;
+  background: radial-gradient(50% 50% at 50% 50%, rgb(234, 185, 139) 0%, rgba(234, 185, 139, 0) 100%);
+  background-color: rgba(255,255,255,1.0);
+  border: 1px solid;
+  border-color: var(--black);
+  display: flex;
+  flex-direction: column;
+  gap: 19px;
+  height: 1024px;
+  padding: 108px 0;
+  width: 1440px;
+}
+
+.overlap-group3 {
+  height: 430px;
+  position: relative;
+  width: 1203px;
+}
+
+.choose-your-soil-type {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  left: 447px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 314px;
+}
+
+.overlap-group2 {
+  height: 315px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1203px;
+}
+
+.question-15 {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  left: 236px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 967px;
+}
+
+.vector {
+  height: 258px;
+  left: 0;
+  position: absolute;
+  top: 57px;
+  width: 262px;
+}
+
+.flex-row {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  gap: 286px;
+  height: 353px;
+  margin-right: 0.24px;
+  min-width: 1200px;
+}
+
+.overlap-group {
+  align-items: flex-start;
+  background-image: url(/static/img/rectangle-35-1.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 111px;
+  margin-top: 9px;
+  min-width: 347px;
+  padding: 13px 45px;
+}
+
+.place,
+.moist {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 58px;
+  text-align: center;
+  width: 250px;
+}
+
+.flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  min-height: 353px;
+  width: 567px;
+}
+
+.overlap-group1 {
+  align-items: flex-start;
+  background-image: url(/static/img/rectangle-34.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 111px;
+  justify-content: flex-end;
+  min-width: 358px;
+  padding: 16px 51px;
+}
+
+.vector-1 {
+  align-self: flex-end;
+  height: 233px;
+  width: 263px;
+}
+

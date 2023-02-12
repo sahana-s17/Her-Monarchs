@@ -1,0 +1,116 @@
+.results {
+  align-items: center;
+  background: radial-gradient(50% 50% at 50% 50%, rgb(233.96, 184.79, 139.4) 0%, rgba(253, 239, 222, 0) 100%);
+  background-color: rgba(255,255,255,1.0);
+  border: 1px solid;
+  border-color: var(--black);
+  display: flex;
+  flex-direction: column;
+  height: 3386px;
+  padding: 62px 0;
+  width: 1440px;
+}
+
+.results-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 63.0px;
+  min-height: 348px;
+  text-align: center;
+  width: 1183px;
+}
+
+.span-1 {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+}
+
+.overlap-group {
+  align-self: flex-end;
+  height: 1308px;
+  position: relative;
+  width: 1330px;
+}
+
+.group-27 {
+  height: 76px;
+  left: 780px;
+  position: absolute;
+  top: 385px;
+  width: 79px;
+}
+
+.vector {
+  height: 146px;
+  left: 1081px;
+  position: absolute;
+  top: 460px;
+  width: 249px;
+}
+
+.based-on-this-quiz {
+  color: transparent;
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  left: 28px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 1176px;
+}
+
+.span-2 {
+  color: #6b6562;
+  font-size: var(--font-size-s);
+}
+
+.grow-native-plants-like-milkweed {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 369px;
+  width: 1183px;
+}
+
+.common-milkweed-w {
+  left: 28px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 717px;
+  width: 1197px;
+}
+
+.milkweed-removebg-preview-1 {
+  height: 278px;
+  left: 906px;
+  object-fit: cover;
+  position: absolute;
+  top: 564px;
+  width: 203px;
+}
+
+.whorled-milkweed-asc {
+  height: 206px;
+  left: 820px;
+  object-fit: cover;
+  position: absolute;
+  top: 895px;
+  width: 350px;
+}
+
+.other-options-plant {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 19.0px;
+  margin-top: 273px;
+  min-height: 681px;
+  width: 1183px;
+}
+

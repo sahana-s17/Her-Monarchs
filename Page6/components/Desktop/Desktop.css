@@ -1,0 +1,25 @@
+.desktop {
+  align-items: flex-start;
+  background: radial-gradient(50% 50% at 50% 50%, rgb(234, 185, 139) 0%, rgba(234, 185, 139, 0) 100%);
+  background-color: rgba(255,255,255,1.0);
+  border: 1px solid;
+  border-color: var(--black);
+  display: flex;
+  height: 1024px;
+  padding: 337px 494px;
+  width: 1440px;
+}
+
+.generating-your-results {
+  color: var(--black);
+  cursor: pointer;
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 348px;
+  text-align: center;
+  width: 452px;
+}
+

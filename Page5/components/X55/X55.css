@@ -1,0 +1,78 @@
+.x5-5 {
+  align-items: flex-start;
+  background: radial-gradient(50% 50% at 50% 50%, rgb(234, 185, 139) 0%, rgba(234, 185, 139, 0) 100%);
+  background-color: rgba(255,255,255,1.0);
+  border: 1px solid;
+  border-color: var(--black);
+  display: flex;
+  flex-direction: column;
+  height: 1024px;
+  padding: 74.8px 0;
+  width: 1440px;
+}
+
+.overlap-group {
+  height: 360px;
+  margin-top: 45px;
+  position: relative;
+  width: 1284px;
+}
+
+.does-your-area-have {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  left: 157px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 302px;
+}
+
+.question-15 {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  left: 237px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 967px;
+}
+
+.vector {
+  height: 258px;
+  left: 0;
+  position: absolute;
+  top: 45px;
+  width: 262px;
+}
+
+.flex-row {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  gap: 307px;
+  margin-left: 17.0px;
+  margin-top: 84px;
+  min-width: 1023px;
+}
+
+.rectangle-3 {
+  height: 111px;
+  width: 358px;
+}
+
+.vector-1 {
+  align-self: flex-end;
+  height: 233px;
+  margin-right: 0.24px;
+  margin-top: 41px;
+  width: 263px;
+}
+
